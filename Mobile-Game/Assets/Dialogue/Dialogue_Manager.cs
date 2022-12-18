@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 public class Dialogue_Manager : MonoBehaviour
 {
 
@@ -17,7 +18,7 @@ public class Dialogue_Manager : MonoBehaviour
     public GameObject dialogueUI;
 
     public Text npcName;
-    public Text npcDialogueBox;
+    public TextMeshProUGUI npcDialogueBox;
     public Text playerResponse;
 
     public Button choice1;

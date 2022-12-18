@@ -14,11 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: NPC 1
   dialogue:
-  - John - Hey what's up
-  - John - Hey what's up
-  - Kaison - What?
-  - John - Whta?
-  - 'Kaison - You okay?
-
-'
+  - Kaia - Hello there, can we speak for a second?
+  - NPC 1 - What do you need and be quick about it?
+  - 'Kaia - I am looking for some information on a certain individual? '
+  - NPC 1 - Who are these individual's?
+  - Kaia -  Kaison
+  - NPC - The name sounds familiar, Ah yes, Kaison.
+  - Kaia - Are you going to open your mouth?
+  - NPC - How about a bit more respect. You are lucky that I am in a good mood today,
+    I would have knocked your teeth out.
   playerDialogue: []

@@ -372,6 +372,7 @@
 "Assets/SceneSwitch.cs"
 "Assets/Talking.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/Virtual_JoyStick.cs"
 -langversion:9.0
 
 /deterministic
