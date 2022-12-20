@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bddac263d64a78a4e9bd4eef47980d5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npc: {fileID: 11400000, guid: 86e077e4d1a730e4c82e368563887da8, type: 2}
+  npc: {fileID: 11400000, guid: 486eaeb5f0ff1d942ab7516c2dc761e3, type: 2}
   player: {fileID: 325279259}
   dialogueUI: {fileID: 1817078691}
   npcName: {fileID: 0}
@@ -340,7 +340,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 889599366}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -733,10 +733,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1325648308}
   - {fileID: 1817078695}
   - {fileID: 1342060860}
   - {fileID: 299603456}
-  - {fileID: 1325648308}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -972,7 +972,7 @@ RectTransform:
   m_Children:
   - {fileID: 164660763}
   m_Father: {fileID: 889599366}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1023,7 +1023,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 79337090}
         m_TargetAssemblyTypeName: Dialogue_Manager, Assembly-CSharp
         m_MethodName: ChoiceClick
         m_Mode: 1
@@ -1105,7 +1105,7 @@ RectTransform:
   m_Children:
   - {fileID: 1661931348}
   m_Father: {fileID: 889599366}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1508,7 +1508,7 @@ RectTransform:
   - {fileID: 173997328}
   - {fileID: 366124183}
   m_Father: {fileID: 889599366}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

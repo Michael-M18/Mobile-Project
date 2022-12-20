@@ -14,11 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dialogue
   dialogue:
-  - John - Hey what's up
-  - John - Hey what's up
-  - Kaison - What?
-  - John - Whta?
-  - 'Kaison - You okay?
+  - Kaia - Hi there, can I just take a moment of your time?
+  - Kaia - Hi there, can I just take a moment of your time?
+  - NPC 2 - It will depend on how long you are looking to waste, What do you want?
+  - Kaia - There is some information that I am looking to verify. In simple terms
+    I want to know if they are true or just none sense.
+  - NPC 2 - Hmmm...Go ahead
+  - 'Kaia - I was told that there was a mysterious man with a strong build, he looked
+    pissed off roaming around this city. Do you have any idea or who he may be?
 
 '
+  - NPC 2 - What, no... Why are you even asking me this question?
+  - Kaia - Just curiosity.
+  - NPC 2 - Curiosity you say, Yeah right....
   playerDialogue: []
